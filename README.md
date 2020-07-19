@@ -1,8 +1,14 @@
-### Hi there 👋
+## Hi, I'm Nadir 👋 :man_technologist:
 
-#### I’m Nadir Badnjevic, Software Architect and Engineer with over 13 years of comprehensive experience designing, developing and deploying various commercial software architectures on the full stack. Focused on creating great software products and teams that deliver them.
+I’m Nadir Badnjevic, Software Architect and Engineer with over 13 years of comprehensive experience designing, developing and deploying various commercial software architectures on the full stack. Focused on creating great software products and teams that deliver them.
 
-**Specialties**: software and application design and architecture, Microsoft stack .NET, Azure, Clean code, Clean architecture, DDD, SOLID, leading teams, coaching and mentoring, project management, collaborating with customers and stakeholders, strategic product development.
+### Specialties 
+Software and application design and architecture, Microsoft stack .NET, Azure, Clean code, Clean architecture, DDD, SOLID, leading teams, coaching and mentoring, project management, collaborating with customers and stakeholders, strategic product development.
+
+### Find me around the web:
+- Sharing knowledge on [nadirbad.dev](https://nadirbad.dev)
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/nadir-badnjevic/)
+- Tweeting on [Twitter](https://twitter.com/nadirbad)
 
 <!--
 **nadirbad/nadirbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
