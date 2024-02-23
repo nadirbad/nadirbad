@@ -1,6 +1,6 @@
 ## Hi, I'm Nadir 👋 :man_technologist:
 
-I’m Nadir Badnjevic, Software Architect and Engineer with over 15 years of comprehensive experience designing, developing and deploying various commercial software architectures on the full stack. Focused on creating great software products and teams that deliver them.
+I’m Nadir Badnjevic, Software Architect and Engineer with over 17 years of comprehensive experience designing, developing and deploying various commercial software architectures on the full stack. Focused on creating great software products and teams that deliver them.
 
 ### Specialties 
 Software architecture and design, Microsoft stack .NET, Azure, AWS, Clean code, Clean architecture, Event-driven architectures, DDD, leading teams, coaching and mentoring, engineering management, collaborating with customers and stakeholders, strategic product development.
